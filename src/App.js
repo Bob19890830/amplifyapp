@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+      <p>
+        This is the demo of AWS amplify of React Deployment
+      </p>
       </header>
     </div>
   );
